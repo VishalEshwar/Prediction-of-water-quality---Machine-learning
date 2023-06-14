@@ -6,10 +6,11 @@ Here's an overview of the steps involved:
 4) multi class classification
 5) Model Evaluation
 6) Conclusion
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1) Data Collection: Obtained the dataset from the TNPCB website for the year 2018.The raw data consits of 26 water quality paramters with 12 sampling areas acrosss the Thamirabarani river.
+1)** Data Collection:** Obtained the dataset from the TNPCB website for the year 2018.The raw data consits of 26 water quality paramters with 12 sampling areas acrosss the Thamirabarani river.
 
-2) Data Preprocessing:
+2)** Data Preprocessing:**
 •	The parameters which contained the missing values and the areas in which the samplings are not done were eliminated. Hence the preprocessed data contains about 21 parameters.
 •	The missing values were handled
 •	The label encoding was performed for the DBU (Designated Best Use) classes,using the LabelEncoder function provided by the scikit-learn library.
