@@ -6,6 +6,7 @@ Here's an overview of the steps involved:
 4) multi class classification
 5) Model Evaluation
 6) Conclusion
+
 1) Data Collection: Obtained the dataset from the TNPCB website for the year 2018.The raw data consits of 26 water quality paramters with 12 sampling areas acrosss the Thamirabarani river.
 
 2) Data Preprocessing:
